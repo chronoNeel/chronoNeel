@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://fb.com/chrononeel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chrononeel" height="30" width="40" /></a>
 <a href="https://instagram.com/captain_cyrus_harding" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="captain_cyrus_harding" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/uc43s9jswnvuzkygf02rrbca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc43s9jswnvuzkygf02rrbca" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC43S9JswNVuZKyGf02RRBcA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc43s9jswnvuzkygf02rrbca" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/neel-7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="neel-7" height="30" width="40" /></a>
 </p>
 
