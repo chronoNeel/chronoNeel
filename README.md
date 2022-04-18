@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chrononeel&label=Profile%20views&color=0e75b6&style=flat" alt="chrononeel" /> </p>
 
-<img align="right" width=350px height=325px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+<img align="right" width=350px height=315px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 - 🌱 I’m currently learning **Java**
 
