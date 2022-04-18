@@ -1,7 +1,7 @@
 <h1 align="center">Hi, there👋 </h1>
 
 <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=630&height=50&lines=Welcome+to+chronoNeel's+github...;DS+|+Algo+|+CP;" alt="Headline" />
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=630&height=50&lines=Welcome+to+chronoNeel's+github...;A+student+from+CSE,+SUST;DS+|+Algo+|+OOP;" alt="Headline" />
     </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chrononeel&label=Profile%20views&color=0e75b6&style=flat" alt="chrononeel" /> </p>
