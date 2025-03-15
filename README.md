@@ -79,16 +79,3 @@ I’m always open to collaborating on interesting projects or discussing opportu
 
 ---
 
-### 🛠️ Repositories to Build for a Strong Profile  
-1. **LeetCode Solutions**: A repository with well-documented solutions to LeetCode problems.  
-2. **ML Project Portfolio**: A collection of end-to-end ML projects with datasets, notebooks, and explanations.  
-3. **Web Development Projects**:  
-   - Build a **full-stack e-commerce app** using React, Node.js, and Express.  
-   - Create a **blogging platform** using Next.js and a headless CMS.  
-4. **Competitive Programming**: A repo with templates and solutions for competitive programming contests.  
-5. **LLM Projects**: Showcase your work with LLMs, such as fine-tuning models or building chatbots.  
-6. **Blogs or Tutorials**: Write about your learning journey, DSA tips, or ML concepts.  
-
----
-
-Let me know if you need further customization or help with setting up your repositories! 😊  
