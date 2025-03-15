@@ -1,5 +1,5 @@
 ### Hi there 👋  
-I'm **Niloy Roy**, a passionate university student aspiring to become a software engineer. I love solving problems, diving into Data Structures and Algorithms (DSA), and exploring the fascinating world of Machine Learning (ML), Large Language Models (LLMs), and web development.  
+I'm **Niloy Roy**, a CSE student from SUST aspiring to become a software engineer. I love solving problems, diving into Data Structures and Algorithms (DSA), and exploring the fascinating world of Machine Learning (ML), Large Language Models (LLMs), and web development.  
 
 📊 **Coding Profiles**:  
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/u/Neel-7/)
