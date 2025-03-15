@@ -1,56 +1,77 @@
-<h1 align="center">Hi, there👋 </h1>
+### Hi there 👋  
+I'm **Niloy Roy**, a passionate university student aspiring to become a software engineer. I love solving problems, diving into Data Structures and Algorithms (DSA), and exploring the fascinating world of Machine Learning (ML) and Large Language Models (LLMs).  
 
-<div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=630&height=50&lines=Welcome+to+chronoNeel's+github...;A+student+from+CSE,+SUST;DS+|+Algo+|+OOP;" alt="Headline" />
-    </div>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chrononeel&label=Profile%20views&color=0e75b6&style=flat" alt="chrononeel" /> </p>
-
-<img align="right" width=350px height=315px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
-
-- 🌱 I’m currently learning **Java**
-
-- 📫 How to reach me **niloy55@student.sust.edu**
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/chrononeel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chrononeel" height="30" width="40" /></a>
-<a href="https://instagram.com/captain_cyrus_harding" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="captain_cyrus_harding" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UC43S9JswNVuZKyGf02RRBcA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc43s9jswnvuzkygf02rrbca" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/neel-7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="neel-7" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p> 
-
-<br>
-
----
-## 📊 Github Stats
-
-  <br/>
-  <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=chronoNeel&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Niloy Roy's Github Stats">
-<br/>
-<br>
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chronoNeel&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="chronoNeel""/>
-  <br/><br>
-    &nbsp;
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chronoNeel&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="chronoNeel's stat" />
-  </p>
-
-----
-
-<summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/7oSkaaa"><img alt="chronoNeel's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=chronoNeel&custom_title=chronoNeel's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
+📊 **Coding Profiles**:  
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/u/Neel-7/)
+[![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white)](https://www.kaggle.com/niloyroy1715)
+[![LightOJ](https://img.shields.io/badge/-LightOJ-1A4730?style=flat-square)](https://lightoj.com/user/niloyroy1715)  
 
 ---
 
-## :trophy: Git profile Trophies
+### 📈 GitHub Stats  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=chronoNeel&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&theme=gotham)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chronoNeel&layout=compact&theme=gotham&custom_title=Most%20Used%20Languages)  
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chronoNeel&layout=compact&theme=algolia" alt="chronoNeel" /></a> </p>
+---
 
+### 🛠️ Skills  
+#### Programming Languages:  
+![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)  
+
+#### Machine Learning & Data Science:  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)  
+
+#### Tools & Frameworks:  
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+
+---
+
+### 🚀 Projects  
+Here are some of the projects I’ve worked on:  
+1. **Machine Learning Projects**:  
+   - [Project 1: Sentiment Analysis on Twitter Data](https://github.com/chronoNeel/sentiment-analysis)  
+   - [Project 2: Image Classification using CNN](https://github.com/chronoNeel/image-classification-cnn)  
+
+2. **DSA & Problem Solving**:  
+   - [LeetCode Solutions Repository](https://github.com/chronoNeel/leetcode-solutions)  
+   - [Competitive Programming Templates](https://github.com/chronoNeel/cp-templates)  
+
+3. **LLM & NLP**:  
+   - [Fine-Tuning GPT-2 for Text Generation](https://github.com/chronoNeel/gpt2-finetuning)  
+   - [Chatbot using Transformers](https://github.com/chronoNeel/chatbot-transformers)  
+
+---
+
+### 📚 Learning Goals  
+- Deepen my understanding of **LLMs** and their applications.  
+- Participate in **Kaggle competitions** to improve my ML skills.  
+- Solve **500+ LeetCode problems** to strengthen my DSA foundation.  
+
+---
+
+### 📫 Let’s Connect!  
+I’m always open to collaborating on interesting projects or discussing opportunities. Feel free to reach out:  
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/niloyroy55/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:niloyroy1715@gmail.com)
+[![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white)](https://www.kaggle.com/niloyroy1715)  
+
+---
+
+### 🛠️ Repositories to Build for a Strong Profile  
+1. **LeetCode Solutions**: A repository with well-documented solutions to LeetCode problems.  
+2. **ML Project Portfolio**: A collection of end-to-end ML projects with datasets, notebooks, and explanations.  
+3. **Competitive Programming**: A repo with templates and solutions for competitive programming contests.  
+4. **LLM Projects**: Showcase your work with LLMs, such as fine-tuning models or building chatbots.  
+5. **Blogs or Tutorials**: Write about your learning journey, DSA tips, or ML concepts.  
+
+---
+
+Let me know if you need further customization or help with setting up your repositories! 😊  
